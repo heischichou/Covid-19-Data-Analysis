@@ -1,4 +1,5 @@
-> [!NOTE] > **This project covers only the first seven months of 2020 since the original data set only contains data from January 2020 until July 2020.**
+> [!NOTE]
+> **This project covers only the first seven months of 2020 since the original data set only contains data from January 2020 until July 2020.**
 
 # Covid-19-Data-Analysis
 
