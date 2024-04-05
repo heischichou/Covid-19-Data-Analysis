@@ -1,7 +1,7 @@
 > [!NOTE]
 > **This project covers only the first seven months of 2020 since the original data set only contains data from January 2020 until July 2020.**
 
-# Covid-19-Data-Analysis
+# Covid-19 Data Exploratory Analysis
 
 The [COVID-19 Dataset](https://www.kaggle.com/datasets/imdevskp/corona-virus-report) is a publicly available dataset from Kaggle, published by Devakumar K.P. on January 21, 2020. It provides information on the cumulative count of confirmed, death, and recovered cases of COVID-19 from different countries since January 2020. This dataset encompasses details such as the country, date, longitude, latitude, the cumulative number of confirmed cases, cumulative number of confirmed deaths, cumulative number of recoveries, and WHO Region of the cumulative cases.
 
