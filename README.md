@@ -3,7 +3,9 @@
 
 # Covid-19-Data-Analysis
 
-My first Python Pandas ETL Pipeline.
+The [COVID-19 Dataset](https://www.kaggle.com/datasets/imdevskp/corona-virus-report) is a publicly available dataset from Kaggle, published by Devakumar K.P. on January 21, 2020. It provides information on the cumulative count of confirmed, death, and recovered cases of COVID-19 from different countries since January 2020. This dataset encompasses details such as the country, date, longitude, latitude, the cumulative number of confirmed cases, cumulative number of confirmed deaths, cumulative number of recoveries, and WHO Region of the cumulative cases.
+
+This data science project aims to perform exploratory data analysis on the impact of the spread of the Coronavirus. It employs various visualization techniques, such as treemaps, pie charts, and geographical maps, to visualize the data and provide insights into the progression of the pandemic over time across different regions. The resulting insights can help researchers, policymakers, and the general public to learn and better understand the dynamics of the COVID-19 pandemic and make informed decisions for their health and safety.
 
 ## **Final Columns**
 
@@ -42,10 +44,12 @@ My first Python Pandas ETL Pipeline.
   <div>
     <p><i>What is the monthly trends of cumulative case outcomes?</i></p>
     <div align="center">
+      <img src="https://raw.githubusercontent.com/heischichou/Covid-19-Data-Analysis/main/assets/Monthly%20Trend%20of%20Cumulative%20Case%20Outcomes/Monthly%20Trend%20of%20Cumulative%20Case%20Outcomes%20by%20Country.png"></img>
+      <br>
       <img src="https://raw.githubusercontent.com/heischichou/Covid-19-Data-Analysis/main/assets/Monthly%20Trend%20of%20Cumulative%20Case%20Outcomes/Monthly%20Trend%20of%20Cumulative%20Case%20Outcomes%20by%20Country%20-%20January.png"></img>
       <br>
-      <!-- <img src="https://raw.githubusercontent.com/heischichou/Covid-19-Data-Analysis/main/assets/Monthly%20Trend%20of%20Cumulative%20Case%20Outcomes/Monthly%20Trend%20of%20Cumulative%20Case%20Outcomes%20by%20Country%20-%February.png"></img>
-      <br> -->
+      <img src="https://raw.githubusercontent.com/heischichou/Covid-19-Data-Analysis/main/assets/Monthly%20Trend%20of%20Cumulative%20Case%20Outcomes/Monthly%20Trend%20of%20Cumulative%20Case%20Outcomes%20by%20Country%20-%20February.png"></img>
+      <br>
       <img src="https://raw.githubusercontent.com/heischichou/Covid-19-Data-Analysis/main/assets/Monthly%20Trend%20of%20Cumulative%20Case%20Outcomes/Monthly%20Trend%20of%20Cumulative%20Case%20Outcomes%20by%20Country%20-%20March.png"></img>
       <br>
       <img src="https://raw.githubusercontent.com/heischichou/Covid-19-Data-Analysis/main/assets/Monthly%20Trend%20of%20Cumulative%20Case%20Outcomes/Monthly%20Trend%20of%20Cumulative%20Case%20Outcomes%20by%20Country%20-%20April.png"></img>
@@ -73,8 +77,8 @@ My first Python Pandas ETL Pipeline.
         <div align="center">
           <img src="https://raw.githubusercontent.com/heischichou/Covid-19-Data-Analysis/main/assets/Highest%20Death%20Count%20by%20Country/Highest%20Death%20Count%20by%20Country%20-%20January.png"></img>
           <br>
-          <!-- <img src="https://raw.githubusercontent.com/heischichou/Covid-19-Data-Analysis/main/assets/Highest%20Death%20Count%20by%20Country/Highest%20Death%20Count%20by%20Country%20-%20February.png"></img>
-          <br> -->
+          <img src="https://raw.githubusercontent.com/heischichou/Covid-19-Data-Analysis/main/assets/Highest%20Death%20Count%20by%20Country/Highest%20Death%20Count%20by%20Country%20-%20February.png"></img>
+          <br>
           <img src="https://raw.githubusercontent.com/heischichou/Covid-19-Data-Analysis/main/assets/Highest%20Death%20Count%20by%20Country/Highest%20Death%20Count%20by%20Country%20-%20March.png"></img>
           <br>
           <img src="https://raw.githubusercontent.com/heischichou/Covid-19-Data-Analysis/main/assets/Highest%20Death%20Count%20by%20Country/Highest%20Death%20Count%20by%20Country%20-%20April.png"></img>
@@ -124,8 +128,8 @@ My first Python Pandas ETL Pipeline.
         <div align="center">
           <img src="https://raw.githubusercontent.com/heischichou/Covid-19-Data-Analysis/main/assets/Regional%20Percentage%20of%20Cumulative%20Death%20Counts/Regional%20Percentage%20of%20Cumulative%20Death%20Counts%20-%20January.png"></img>
           <br>
-          <!-- <img src="https://raw.githubusercontent.com/heischichou/Covid-19-Data-Analysis/main/assets/Highest%20Death%20Count%20by%20Country/Highest%20Death%20Count%20by%20Country%20-%20February.png"></img>
-          <br> -->
+          <img src="https://raw.githubusercontent.com/heischichou/Covid-19-Data-Analysis/main/assets/Regional%20Percentage%20of%20Cumulative%20Death%20Counts/Regional%20Percentage%20of%20Cumulative%20Death%20Counts%20-%20February.png"></img>
+          <br>
           <img src="https://raw.githubusercontent.com/heischichou/Covid-19-Data-Analysis/main/assets/Regional%20Percentage%20of%20Cumulative%20Death%20Counts/Regional%20Percentage%20of%20Cumulative%20Death%20Counts%20-%20March.png"></img>
           <br>
           <img src="https://raw.githubusercontent.com/heischichou/Covid-19-Data-Analysis/main/assets/Regional%20Percentage%20of%20Cumulative%20Death%20Counts/Regional%20Percentage%20of%20Cumulative%20Death%20Counts%20-%20April.png"></img>
